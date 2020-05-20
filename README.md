@@ -1,4 +1,4 @@
-# prakarsh_setu_biller
+# Prakarsh Setu Biller
 * **URL** : https://sheltered-brushlands-07479.herokuapp.com/bills/fetchReceipt
 
 * **Method:** : `GET`
