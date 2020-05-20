@@ -1,10 +1,8 @@
-
-----
 # prakarsh_setu_biller
 * **URL** : https://sheltered-brushlands-07479.herokuapp.com/bills/fetchReceipt
 
 * **Method:** : `GET`
-* **Headers**: Authorization
+* **Headers** : Authorization
   
 *  **Request Body**
 ```
